@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Output files
+*.xlsx
+*.xls
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
